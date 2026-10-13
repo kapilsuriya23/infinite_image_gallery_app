@@ -8,7 +8,7 @@ from the [Pixabay API](https://pixabay.com/api/docs/).
 
 | Home | Detail | Favorites | Dark mode |
 |---|---|---|---|
-| ![](screenshots/home.png) | ![](screenshots/detail.png) | ![](screenshots/favorites.png) | ![](screenshots/dark.png) |
+| ![](screenshots/home.jpeg) | ![](screenshots/detail.jpeg) | ![](screenshots/favorites.jpeg) | ![](screenshots/dark.jpeg) |
 
 
 ## Features
